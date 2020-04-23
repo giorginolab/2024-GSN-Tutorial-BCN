@@ -1,0 +1,12 @@
+mol new D187N+Nb-run.pdb  
+mol addfile  D187N+Nb-run-subset.xtc waitfor  all
+
+mol new D187N-run.pdb     
+mol addfile D187N-run-subset.xtc waitfor  all
+
+mol new  WT+Nb-run.pdb   
+mol addfile  WT+Nb-run-subset.xtc waitfor  all 
+
+
+mol new    WT-run.pdb
+mol addfile    WT-run-subset.xtc waitfor  all
