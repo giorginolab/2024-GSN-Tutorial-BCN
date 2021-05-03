@@ -2,9 +2,9 @@
 
 *Toni Giorgino, IBF-CNR, Italy* - www.giorginolab.it
 
-The class is based on the following paper:
+The practice is based on the following paper:
 
-> Giorgino T, Analysis libraries for molecular trajectories: a cross-language synopsis. Chapter 20 in:  Biomolecular Simulations: Methods and Protocols Edited by M. Bonomi and C. Camilloni (Springer, ISBN 978-1-4939-9608-7).  [Preprint here](https://github.com/giorginolab/preprints-repository/tree/master/analysis_libraries_chapter).
+> Giorgino T, Analysis libraries for molecular trajectories: a cross-language synopsis. Chapter 20 in:  Biomolecular Simulations: Methods and Protocols Edited by M. Bonomi and C. Camilloni (Springer, ISBN 978-1-4939-9608-7).  [Preprint here](https://github.com/giorginolab/analysis_libraries_chapter/).
 
 and on the biological example from:
 
@@ -28,7 +28,7 @@ click Reload.)
 ## Local execution
 
 You may also checkout or download the notebook and open it in 
-the jupyter environment. Alternatively, you may copy-paste the
+the Jupyter environment. Alternatively, you may copy-paste the
 commands in an *ipython* interactive session.
 
 
