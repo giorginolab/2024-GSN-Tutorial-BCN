@@ -10,6 +10,25 @@ and on the biological example from:
 
 > Giorgino T, Mattioni D, Hassan A, Milani M, Mastrangelo E, Barbiroli A, et al. Nanobody interaction unveils structure, dynamics and proteotoxicity of the Finnish-type amyloidogenic gelsolin variant. Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease. 2019 Mar 1;1865(3):648–60. [Journal version](https://www.sciencedirect.com/science/article/pii/S0925443919300109?via%3Dihub). [Preprint here](https://arxiv.org/abs/1903.07308).
 
-For the practice file, please open the [practice notebook](practice/practice.ipynb) and click "open in Colab". (If GitHub displays the message "Sorry, something went wrong. Reload?", click Reload.)
+## Interactive practice
 
-Direct link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giorginolab/GSN-Tutorial-BCN-2021/blob/master/practice/practice.ipynb)
+We will use Google's Colab servers to try and solve the exercises
+interactively. Colab will open the Python notebook contained in the
+[practice](practice) directory and make it interactive. You may be
+asked to login to Google and to accept the execution of code.
+
+You may use this direct link: [![Open In
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giorginolab/GSN-Tutorial-BCN-2021/blob/master/practice/practice.ipynb)
+
+Note that if you open the *practice.ipynb* notebook in GitHub, the
+notebook will look the same but will **not** be interactive. (If
+GitHub displays the message "Sorry, something went wrong. Reload?",
+click Reload.) 
+
+## Local execution
+
+You may also checkout or download the notebook and open it in 
+the jupyter environment. Alternatively, you may copy-paste the
+commands in an *ipython* interactive session.
+
+
