@@ -12,3 +12,4 @@ and on the biological example from:
 
 For the practice file, please open the [practice notebook](practice/practice.ipynb) and click "open in Colab". (If GitHub displays the message "Sorry, something went wrong. Reload?", click Reload.)
 
+Direct link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giorginolab/GSN-Tutorial-BCN-2021/blob/master/practice/practice.ipynb)
