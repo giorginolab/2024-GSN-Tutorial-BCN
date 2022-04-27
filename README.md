@@ -17,9 +17,6 @@ interactively. Colab will open the Python notebook contained in the
 [practice](practice) directory and make it interactive. You may be
 asked to login to Google and to accept the execution of code.
 
-You may use this direct link: [![Open In
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giorginolab/GSN-Tutorial-BCN-2021/blob/master/practice/practice.ipynb)
-
 Note that if you open the *practice.ipynb* notebook in GitHub, the
 notebook will look the same but will **not** be interactive. (If
 GitHub displays the message "Sorry, something went wrong. Reload?",
